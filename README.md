@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hervé Mention</h1>
-<h3 align="center">Analyst-Programmer. Geek at heart, I am passionate about new technologies and collaborating on exciting projects from Belgium, France and Canada</h3>
+<h3 align="center">Analyst-Programmer. Geek at heart, I am passionate about new technologies and collaborating on exciting projects from Belgium and France</h3>
 
 - 🔭 I’m currently working on **Open Source Project**
 
